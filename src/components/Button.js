@@ -5,17 +5,13 @@ const Button = (props) => {
   return (
     <nav>
       <section className="logo">
-      <div>Hi</div>
+      <img src="./all_stars.jpg" />
       </section>
-      <div>
-        <button>Highlights</button>
-      </div>
-      <div>
-        <button>News</button>
-      </div>
-      <div>
-        <button>Fan Favorites</button>
-      </div>
+      <ul>
+      <li><button><a href="">Highlights</a></button></li>
+      <li><button><a href="">News</a></button></li>
+      <li><button className="fan"><a href="">Fan Favorites</a></button></li>
+      </ul>
     </nav>
   )
 };
