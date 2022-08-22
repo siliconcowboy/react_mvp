@@ -3,12 +3,20 @@ import React from "react";
 const Button = (props) => {
 
   return (
-    <div>
-      <button className="nav_button">Highlights</button>
-      <button className="nav_button">News</button>
-      <button className="nav_button">Fan Favorites</button>
-
-    </div>
+    <nav>
+      <section className="logo">
+      <div>Hi</div>
+      </section>
+      <div>
+        <button>Highlights</button>
+      </div>
+      <div>
+        <button>News</button>
+      </div>
+      <div>
+        <button>Fan Favorites</button>
+      </div>
+    </nav>
   )
 };
 
