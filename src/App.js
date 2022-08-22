@@ -10,7 +10,7 @@ function App() {
     {MvpArray.map((mvp) => (
       <div>
       <Mvp 
-      key={mvp.id}
+      key={mvp.id} 
       name={mvp.name}
       year={mvp.year}
       image={mvp.image}
@@ -20,6 +20,11 @@ function App() {
       OPS={mvp.OPS}
       OPS_Plus={mvp.OPS}
       WRC_plus={mvp.WRC_Plus}
+      WAR={mvp.fWAR}
+      BB={mvp['BB%']}
+      K={mvp['K%']}
+      WPA={mvp.WPA}
+
       />
       </div>
       ))}

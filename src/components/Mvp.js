@@ -4,10 +4,13 @@ const MVP = (props) => {
 
   return (
     <div>
-      <h1>#{props.key}</h1>
-      <h1>Player:{props.name} </h1>
+      <h1>{props.year} {props.name} </h1>
       <img src={props.image} />
-    </div>
+      <h1>Stats</h1>
+      <p>{props.batting_average}/{props.On_Base_Percentage}/{props.Slugging_Percentage}</p>
+      <p>OPS: {props.OPS} OPS+: {props.OPS_Plus} WRC+: {props.WRC_Plus} </p>
+      <p>WAR: {props.WAR} Walk Rate: {props.BB} Strikeout Rate: {props.K} Wins Above Replacement: {props.WPA} </p>
+    </div> 
   )
   };
 
