@@ -4,9 +4,10 @@ const Button = (props) => {
 
   return (
     <div>
-      <button>Home</button>
+      <button>Highlights</button>
+      <button>News</button>
+      <button>Fan Favorites</button>
 
-      <button>hello</button>
     </div>
   )
 };

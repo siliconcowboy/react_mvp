@@ -2,6 +2,7 @@ import './App.css';
 import MvpArray from './data/stats.json'
 import Mvp from './components/Mvp.js'
 import Button from './components/Button.js'
+import Banner from './components/Banner.js'
 
 function App() {
   return (
@@ -9,8 +10,10 @@ function App() {
       <nav>
         <Button />
       </nav>
+<div>
+  <Banner />
+</div>
       <h1>Ranking each MLB MVP of the last 20 years</h1>
-
     {MvpArray.map((mvp) => (
       <div>
       <Mvp 
