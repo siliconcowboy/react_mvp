@@ -7,3 +7,35 @@ body {
   padding-right: 40px;
   padding-left: 40px;
 }
+
+nav {
+  display: flex;
+  height: 150px;
+  background-color: white;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav_button {
+  background-color: lightblue;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  transition-duration: 0.4s;
+}
+.nav_button:hover {
+  color: white;
+}
+
+.banner {
+  text-align: center;
+  background-color: darkblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-attachment: fixed;
+  font-size: 80px;
+  color: red;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
