@@ -5,7 +5,7 @@ const MVP = (props) => {
   return (
     <div>
       <h1>{props.year} {props.name} </h1>
-      <img src={props.image} />
+      <img className="images" src={props.image} />
       <h1>Stats</h1>
       <p><b>BA: </b>{props.batting_average}<b> OBP: </b>{props.On_Base_Percentage}<b> SLG: </b>{props.Slugging_Percentage}</p>
       <p><b>OPS:</b> {props.OPS} <b>OPS+:</b> {props.OPS_Plus} <b>WRC+:</b>{props.WRC_plus}</p>
