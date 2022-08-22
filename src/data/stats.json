@@ -51,6 +51,7 @@
   {
     "id": 4,
     "name": "Barry Bonds",
+    "image":"https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/bayarea/2017/08/07/bonds-barry-756.jpg",
     "year": 2003,
     "batting_average": 0.341,
     "On_Base_Percentage": 0.529,
@@ -66,6 +67,7 @@
   {
     "id": 5,
     "name": "Albert Pujols",
+    "image":"https://www.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwODM0NzMyMDY4NTc4Mzky/albert-pujols-tv.jpg",
     "year": 2008,
     "batting_average": 0.357,
     "On_Base_Percentage": 0.462,
@@ -81,7 +83,7 @@
   {
     "id": 6,
     "name": "Bryce Harper",
-    "image": "harper.jpg",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Bryce-Harper.jpg",
     "year": 2015,
     "batting_average": 0.330,
     "On_Base_Percentage": 0.460,
@@ -97,6 +99,7 @@
   {
     "id": 7,
     "name": "Miguel Cabrera",
+    "image": "https://sportshub.cbsistatic.com/i/r/2021/08/22/18773e69-5eba-456b-adec-28bebd754173/thumbnail/1200x675/0ddbb8b66e4a3354bc3473ee0525746a/miguel-cabrera-2.png",
     "year": 2013,
     "batting_average": 0.348,
     "On_Base_Percentage": 0.442,
@@ -112,6 +115,7 @@
   {
     "id": 8,
     "name": "Albert Pujols",
+    "image": "https://calltothepen.com/wp-content/uploads/getty-images/2017/07/90583807.jpeg",
     "year": 2009,
     "batting_average": 0.327,
     "On_Base_Percentage": 0.443,
@@ -127,6 +131,7 @@
   {
     "id": 9,
     "name": "Mookie Betts",
+    "image": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fbosoxinjection.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F997250320-850x560.jpeg",
     "year": 2018,
     "batting_average": 0.346,
     "On_Base_Percentage": 0.438,
@@ -142,6 +147,7 @@
   {
     "id": 10,
     "name": "Mike Trout",
+    "image": "https://s7d2.scene7.com/is/image/TWCNews/050222-la-angels-trout-ap_05022022",
     "year": 2019,
     "batting_average": 0.291,
     "On_Base_Percentage": 0.438,
@@ -157,6 +163,7 @@
   {
     "id": 11,
     "name": "Alex Rodriguez",
+    "image": "http://media.foxbusiness.com/BrightCove/854081161001/201804/2176/854081161001_5778641548001_5778580272001-vs.jpg",
     "year": 2005,
     "batting_average": 0.321,
     "On_Base_Percentage": 0.421,
@@ -172,6 +179,7 @@
   {
     "id": 12,
     "name": "Shohei Ohtani",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/7ea0663/2147483647/strip/true/crop/2761x1833+0+0/resize/1486x987!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc4%2Ffd%2Fb862ad65434ba6493cd4aac9ef45%2Fangels-braves-baseball-93988.jpg",
     "year": 2021,
     "batting_average": 0.257,
     "On_Base_Percentage": 0.372,
@@ -187,6 +195,7 @@
   {
     "id": 13,
     "name": "Alex Rodriguez",
+    "image": "https://cdn.britannica.com/14/196214-050-B646FA5D/Alex-Rodriguez.jpg",
     "year": 2007,
     "batting_average": 0.314,
     "On_Base_Percentage": 0.422,
@@ -202,6 +211,7 @@
   {
     "id": 14,
     "name": "Josh Hamilton",
+    "image": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fcalltothepen.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F131198809-850x560.jpeg",
     "year": 2010,
     "batting_average": 0.359,
     "On_Base_Percentage": 0.411,
@@ -217,6 +227,7 @@
   {
     "id": 15,
     "name": "Joe Mauer",
+    "image": "https://static01.nyt.com/images/2009/10/01/sports/01tigers.600.jpg",
     "year": 2009,
     "batting_average": 0.365,
     "On_Base_Percentage": 0.444,
@@ -232,6 +243,7 @@
   {
     "id": 16,
     "name": "Albert Pujols",
+    "image": "https://s.yimg.com/ny/api/res/1.2/TigPEGRC4Tjs1Ll4ntVxMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQzMw--/https://s.yimg.com/uu/api/res/1.2/Wlu7tJyqCf.x44ay8KUHug--~B/aD0yNDM5O3c9MzYwMjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/list_wire_usa_today_articles_325/a0a77189874871f3ebcd4ff463e6564a",
     "year": 2004,
     "batting_average": 0.331,
     "On_Base_Percentage": 0.415,
@@ -247,6 +259,7 @@
   {
     "id": 17,
     "name": "Bryce Harper",
+    "image": "https://thatballsouttahere.com/wp-content/uploads/getty-images/2017/07/1396965696.jpeg",
     "year": 2021,
     "batting_average": 0.309,
     "On_Base_Percentage": 0.429,
@@ -262,6 +275,7 @@
   {
     "id": 18,
     "name": "Albert Pujols",
+    "image": "https://cdn.vox-cdn.com/thumbor/CUMrhaoCEyxKtMgzm_mZHvG5Dsc=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22496707/usa_today_16014012.jpg",
     "year": 2005,
     "batting_average": 0.330,
     "On_Base_Percentage": 0.430,
@@ -277,6 +291,7 @@
   {
     "id": 19,
     "name": "Buster Posey",
+    "image": "https://s.hdnux.com/photos/01/22/22/51/21572202/12/1200x0.jpg",
     "year": 2012,
     "batting_average": 0.336,
     "On_Base_Percentage": 0.408,
@@ -292,7 +307,8 @@
   {
     "id": 20,
     "name": "Joey Votto",
-    "year": 2021,
+    "image": "https://www.si.com/.image/t_share/MTgzMTkxMzc2MzI4OTI2NTYw/votto-hr.jpg",
+    "year": 2012,
     "batting_average": 0.324,
     "On_Base_Percentage": 0.424,
     "Slugging_Percentage": 0.600,
@@ -307,6 +323,7 @@
   {
     "id": 21,
     "name": "Mike Trout",
+    "image": "https://www.baseballamerica.com/media/9415/featured_08-trout-mike-victor-decolongon-getty.jpg",
     "year": 2016,
     "batting_average": 0.315,
     "On_Base_Percentage": 0.441,
