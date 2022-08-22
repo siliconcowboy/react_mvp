@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Barry Bonds",
-    "image": "./src/images/bonds2.webp",
+    "image": "../images/bonds2.webp",
     "year": 2004,
     "batting_average": 0.362,
     "On_Base_Percentage": 0.609,
