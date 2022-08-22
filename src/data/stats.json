@@ -14,7 +14,7 @@
     "BB%": 37.6,
     "K%": 6.6,
     "WPA": 13.06,
-    "reason": "Barry Bonds 2004 season is not only the best MVP season on this list, but the best season of all time. Bonds put up an absurd 0.362/0.609/0.812 slashline and totaled one-hundred and twenty intentional walks, the most all time for one season. Bonds walked so much, that if he had played this season without a bat or the ability to swing at a pitch, he still would have got on base 37 percent of the time. Additionally, he slugged 45 homeruns along with 27 doubles, good enough for a 0.812 SLG percentage... no other player on this list besides Bonds himself had a SLG percentage over 700 in their respective seasons. You can debate all you want if Barry should be in the Hall of Fame and whether or not his statistics have an asterik by it, but regardless, this level of dominance had never and will never be reproduced ever again."
+    "reason": "Barry Bonds 2004 season is not only the best MVP season on this list, but the best season of all time. Bonds put up an absurd 0.362/0.609/0.812 slashline and totaled one-hundred and twenty intentional walks, the most all time for one season. Bonds walked so much, that if he had played this season without a bat or the ability to swing at a pitch, he still would have got on base 37 percent of the time. Additionally, he slugged 45 homeruns along with 27 doubles, good enough for a 0.812 SLG percentage... no other player on this list besides Bonds himself had a SLG percentage over .700 in their respective seasons. You can debate all you want if Barry should be in the Hall of Fame and whether or not his statistics have an asterisk by them, but there is no debating that this level of dominance had never and will never be reproduced ever again."
   },
   {
     "id": 2,
@@ -602,7 +602,8 @@
     "fWAR": 3.2,
     "BB%": 17.2,
     "K%": 14.1,
-    "WPA": 2.67
+    "WPA": 2.67,
+    "reason": "For the same reason as Abreu, Freeman’s MVP season comes in second to last. Freeman had an impressive short season, coming away with a 1.102 OPS and a 186 WRC+, but ultimately it was a lack of total production that hurts Freeman’s case.  It would have been interesting to see what numbers Freddie would have put up in a regular 162 game season, but his .366 BABIP suggests once again that regression was probably coming."
   },
   {
     "id": 41,
@@ -617,6 +618,7 @@
     "fWAR": 2.9,
     "BB%": 6.9,
     "K%": 22.5,
-    "WPA": 1.91
+    "WPA": 1.91,
+    "reason": "The 2020 season being shortened to only 60 games automatically puts Jose Abreu’s MVP season at the bottom of this list. A 0.317/0.370/0.617 slash line in a full season would move him much further up, but a 2.9 fWAR and only 19 homeruns isn’t enough production to put Abreu’s season any higher. Additionally, his .350 BABIP suggests that over the course of a full season Abreu would regress to a lower level of production."
   }
 ]

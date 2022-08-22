@@ -18,7 +18,7 @@ function App() {
       On_Base_Percentage={mvp.On_Base_Percentage}
       Slugging_Percentage={mvp.Slugging_Percentage}
       OPS={mvp.OPS}
-      OPS_Plus={mvp.OPS}
+      OPS_Plus={mvp.OPS_Plus}
       WRC_plus={mvp.WRC_Plus}
       WAR={mvp.fWAR}
       BB={mvp['BB%']}
