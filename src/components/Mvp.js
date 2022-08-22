@@ -7,9 +7,11 @@ const MVP = (props) => {
       <h1>{props.year} {props.name} </h1>
       <img src={props.image} />
       <h1>Stats</h1>
-      <p>{props.batting_average}/{props.On_Base_Percentage}/{props.Slugging_Percentage}</p>
-      <p>OPS: {props.OPS} OPS+: {props.OPS_Plus} WRC+: {props.WRC_Plus} </p>
-      <p>WAR: {props.WAR} Walk Rate: {props.BB} Strikeout Rate: {props.K} Wins Above Replacement: {props.WPA} </p>
+      <p><b>BA: </b>{props.batting_average}<b> OBP: </b>{props.On_Base_Percentage}<b> SLG: </b>{props.Slugging_Percentage}</p>
+      <p><b>OPS:</b> {props.OPS} <b>OPS+:</b> {props.OPS_Plus} <b>WRC+:</b> {props.WRC_Plus} </p>
+      <p><b>WAR:</b> {props.WAR} <b>Walk Rate:</b> {props.BB}% <b>Strikeout Rate:</b> {props.K}% <b>Win Probability Added:</b> {props.WPA} </p>
+      <h1>Write Up</h1>
+      <p className="reason">{props.reason}</p>
     </div> 
   )
   };

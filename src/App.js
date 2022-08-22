@@ -24,6 +24,7 @@ function App() {
       BB={mvp['BB%']}
       K={mvp['K%']}
       WPA={mvp.WPA}
+      reason={mvp.reason}
 
       />
       </div>

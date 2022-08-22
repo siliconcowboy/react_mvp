@@ -2,3 +2,8 @@ body {
   text-align: center;
   background-color: beige;
 }
+
+.reason {
+  padding-right: 40px;
+  padding-left: 40px;
+}

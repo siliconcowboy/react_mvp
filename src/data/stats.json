@@ -13,7 +13,8 @@
     "fWAR": 11.9,
     "BB%": 37.6,
     "K%": 6.6,
-    "WPA": 13.06
+    "WPA": 13.06,
+    "reason": "Barry Bonds 2004 season is not only the best MVP season on this list, but the best season of all time. Bonds put up an absurd 0.362/0.609/0.812 slashline and totaled one-hundred and twenty intentional walks, the most all time for one season. Bonds walked so much, that if he had played this season without a bat or the ability to swing at a pitch, he still would have got on base 37 percent of the time. Additionally, he slugged 45 homeruns along with 27 doubles, good enough for a 0.812 SLG percentage... no other player on this list besides Bonds himself had a SLG percentage over 700 in their respective seasons. You can debate all you want if Barry should be in the Hall of Fame and whether or not his statistics have an asterik by it, but regardless, this level of dominance had never and will never be reproduced ever again."
   },
   {
     "id": 2,
@@ -78,6 +79,7 @@
   {
     "id": 6,
     "name": "Bryce Harper",
+    "image": "harper.jpg",
     "year": 2015,
     "batting_average": 0.330,
     "On_Base_Percentage": 0.460,
