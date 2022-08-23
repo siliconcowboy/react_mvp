@@ -72,6 +72,7 @@ nav li a {
 .mvp {
   background-color: lightblue;
   margin: 0;
+  padding-top: 20px;
 }
 
 h1 {
@@ -79,9 +80,18 @@ h1 {
 }
 p {
   margin: 0;
+  padding: 10px;
 }
 
 hr {
   margin: 0;
   border: 0;
+}
+
+.names {
+  padding-top: 50px;
+}
+
+.disclaimer {
+  background-color: lightcoral;
 }

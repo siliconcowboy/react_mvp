@@ -3,6 +3,7 @@ import MvpArray from './data/stats.json'
 import Mvp from './components/Mvp.js'
 import Button from './components/Button.js'
 import Banner from './components/Banner.js'
+import Disclaimer from "./components/Disclaimer.js"
 
 function App() {
   return (
@@ -32,10 +33,10 @@ function App() {
       K={mvp['K%']}
       WPA={mvp.WPA}
       reason={mvp.reason}
-
       />
       </div>
       ))}
+      <Disclaimer />
     </div>
   );
 }
