@@ -547,6 +547,7 @@
   {
     "id": 35,
     "name": "Justin Morneau",
+    "image": "https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_2133,w_3200/https%3A%2F%2Fpuckettspond.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F74049869.jpeg",
     "year": 2006,
     "batting_average": 0.321,
     "On_Base_Percentage": 0.375,
@@ -562,6 +563,7 @@
   {
     "id": 36,
     "name": "Dustin Pedroia",
+    "image": "https://sportshub.cbsistatic.com/i/r/2021/02/01/f30be7bf-2048-4444-8355-b01dcba69fc0/thumbnail/1200x675/2bd7573d50f376e084b4c6d7b0c0f2c1/dustin-pedroia.png",
     "year": 2008,
     "batting_average": 0.326,
     "On_Base_Percentage": 0.376,
@@ -577,6 +579,7 @@
   {
     "id": 37,
     "name": "Miguel Tejada",
+    "image": "https://s.hdnux.com/photos/01/17/46/65/20868459/5/ratio3x2_1800.jpg",
     "year": 2002,
     "batting_average": 0.308,
     "On_Base_Percentage": 0.354,
@@ -592,6 +595,7 @@
   {
     "id": 38,
     "name": "Ichiro Suzuki",
+    "image": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2021-08/ichiro2001-sn-ftr-032119jpg_vzbtpbkviwxc1p3pnwdxh6f0n.jpg?itok=Ah1P1hfp",
     "year": 2001,
     "batting_average": 0.350,
     "On_Base_Percentage": 0.381,
@@ -607,6 +611,7 @@
   {
     "id": 39,
     "name": "Jimmy Rollins",
+    "image": "https://www.gannett-cdn.com/presto/2021/04/16/USAT/8228406a-e077-4e61-a517-4472cdafef16-rollins.JPG?crop=2371,1334,x327,y388&width=2371&height=1334&format=pjpg&auto=webp",
     "year": 2007,
     "batting_average": 0.296,
     "On_Base_Percentage": 0.344,
@@ -624,6 +629,7 @@
   {
     "id": 40,
     "name": "Freddie Freeman",
+    "image": "https://www.ajc.com/resizer/RXgy0mVGJxFFV8Co0J3zlLHbL7I=/arc-anglerfish-arc2-prod-ajc/public/VUXASWOFJBFF3MVBJA4UUSGFZY.JPG",
     "year": 2020,
     "batting_average": 0.341,
     "On_Base_Percentage": 0.462,
@@ -640,6 +646,7 @@
   {
     "id": 41,
     "name": "Jose Abreu",
+    "image": "https://a.espncdn.com/photo/2020/1112/r774892_1296x729_16-9.jpg",
     "year": 2020,
     "batting_average": 0.317,
     "On_Base_Percentage": 0.370,
