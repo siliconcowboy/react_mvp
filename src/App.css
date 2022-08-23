@@ -21,6 +21,8 @@ nav {
 
 .logo {
   display: flex;
+  width:350px;
+  height:300px;
 }
 
 button {
@@ -51,10 +53,35 @@ nav li a {
 }
 
 .banner {
-
+  background-image: url("https://s.yimg.com/os/creatr-images/2020-06/f7e9c160-baff-11ea-abff-5f3ac9f3a555");
+  height: 200px;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 100px;
+  background-size: cover;
+  background-attachment: fixed;
+  color: blue;
+  margin:0;
 }
 
 .images {
   width: 600px;
   height: 550px;
+}
+
+.mvp {
+  background-color: lightblue;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+
+hr {
+  margin: 0;
+  border: 0;
 }

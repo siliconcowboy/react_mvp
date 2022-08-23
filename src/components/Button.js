@@ -5,7 +5,7 @@ const Button = (props) => {
   return (
     <nav>
       <section className="logo">
-      <img src="./all_stars.jpg" />
+      <img src="https://builds.mlbstatic.com/mlb.com/builds/site-core/1606751303311/dist/images/favicon.png" />
       </section>
       <ul>
       <li><button><a href="">Highlights</a></button></li>

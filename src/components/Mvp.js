@@ -3,8 +3,9 @@ import React from 'react'
 const MVP = (props) => {
 
   return (
-    <div>
-      <h1>{props.year} {props.name} </h1>
+    <div className="mvp">
+
+      <h1> #{props.rank}: {props.year} {props.name} </h1>
       <img className="images" src={props.image} />
       <h1>Stats</h1>
       <p><b>BA: </b>{props.batting_average}<b> OBP: </b>{props.On_Base_Percentage}<b> SLG: </b>{props.Slugging_Percentage}</p>

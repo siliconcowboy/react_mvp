@@ -12,11 +12,12 @@ function App() {
   <Banner />
 </section>
 
-      <h1>Ranking each MLB MVP of the last 20 years</h1>
+      <h1 className="mvp">Ranking each MLB MVP of the last 20 years</h1>
     {MvpArray.map((mvp) => (
       <div>
       <Mvp 
       key={mvp.id} 
+      rank={mvp.rank}
       name={mvp.name}
       year={mvp.year}
       image={mvp.image}
