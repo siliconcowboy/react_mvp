@@ -32,7 +32,8 @@
     "fWAR": 12.7,
     "BB%": 32.4,
     "K%": 7.7,
-    "WPA": 10.51
+    "WPA": 10.51,
+    "reason": "Bonds 2002 season is a very close second to his 2004 season but comes in second due to a slightly lower OPS, walk rate, SLG percentage, OBP percentage, and slightly higher strike out rate. Regardless, his 244 WRC+ and 12.7 fWAR are such insane stats that they will never be replicated again. Bonds not only dominated but was also clutch while he finished with a 10.51 WPA. Choosing between Bonds 2002 and 2004 seasons and which was more impressive was the hardest decision for me on this list, which is a testament to Bond’s dominance as no one else came close to the stats he put up in these two years."
   },
   {
     "id": 3,
@@ -49,7 +50,8 @@
     "fWAR": 12.5,
     "BB%": 26.7,
     "K%": 14,
-    "WPA": 11.63
+    "WPA": 11.63,
+    "reason": "73 homeruns. 2001 Barry Bonds not only was the MVP and put up an OPS .200 points higher than the 2nd place finisher, but he also set the all-time single season home-run record of 73 homers, a feat that will likely never be touched again for decades. The reason his 2001 season is 3rd on the list? He somehow managed to put a higher OPS, walk rate, fWAR, and WRC+ in seasons above, which is crazy to think he had statistically better seasons than the one he hit 73 bombs in. "
   },
   {
     "id": 4,
@@ -66,7 +68,8 @@
     "fWAR": 10.2,
     "BB%": 26.9,
     "K%": 10.5,
-    "WPA": 7.99
+    "WPA": 7.99,
+    "reason": "For Barry Bond’s to hit a .341/.529/.749 slash line in his “worst” MVP season on this list is absurd and a testament to how ridiculous his streak of four straight MVP seasons from 2001-2004 was. Once again, Bonds put up stats that are hard to fathom: a 212 WRC+, 10.2 fWAR, and a 26.9 percent walk rate, among other things. Bonds holds the top four spots on this list for good reason: he simply put up seasons that statistically were among the greatest of all time."
   },
   {
     "id": 5,
@@ -83,7 +86,8 @@
     "fWAR": 8.7,
     "BB%": 16.2,
     "K%": 8.4,
-    "WPA": 6.49
+    "WPA": 6.49,
+    "reason": "Albert Pujols, who at the time of me typing this is sitting at 693 homeruns and chasing 700 in the year 2022, finds his 2008 MVP season fifth on my list. Pujols 184 WRC+ and 1.115 OPS are the highlights of his stats, but there were simply no flaws in his game in 2008. In addition to his high slugging, Pujols managed to walk twice as often as he struck out, contributing to a crazy high .462 OBP, and cementing himself at fifth place on my list. "
   },
   {
     "id": 6,
@@ -100,7 +104,8 @@
     "fWAR": 9.3,
     "BB%": 19,
     "K%": 20,
-    "WPA": -0.38
+    "WPA": -0.38,
+    "reason": "2015 Bryce Harper was the Harper the baseball world was waiting for. Harper had a breakout season for the Nationals, posting a WRC+ just under 300 and an fWAR of 9.3! Even with a relatively high 20 percent strikeout rate, harper was able to walk at about the same rate which kept his OBP up and contributed to a league leading 1.109 OPS. The only odd caveat about Harper’s fantastic 2015 season is his negative WPA, which means he was either unlucky or not able to show up in big spots. Regardless, his monster 2015 season lands 6th on my list. "
   },
   {
     "id": 7,
@@ -117,7 +122,8 @@
     "fWAR": 8.6,
     "BB%": 13.8,
     "K%": 14.4,
-    "WPA": 6.82
+    "WPA": 6.82,
+    "reason": "Miguel Cabrera’s 2013 season can be summed up in two words: Triple Crown. The Detroit Tiger’s slugger not only dominated and won an MVP award, but he led the league in batting average, RBIs, and homeruns along the way. Accomplishing a feat that has yet to be repeated plus posting a 193 WRC+ and an 8.6 fWAR is good enough for a 7th place finish on my list."
   },
   {
     "id": 8,
@@ -134,7 +140,8 @@
     "fWAR": 8.4,
     "BB%": 16.4,
     "K%": 9.1,
-    "WPA": 8.04
+    "WPA": 8.04,
+    "reason": "Coming in at 8th place is Pujols 2009 MVP season. Coming off a previous MVP award in 2008, Pujols showed no sign of content as he mashed a .327/.443/.658 slash line and a 189 OPS+. Similar to 2008, Pujols walked at almost twice the rate he struck out due to great plate discipline, and pitchers having to constantly pitch around him. Pujols dominance throughout the late 2000’s cemented his legacy as one of the best players of the decade and a future HOF."
   },
   {
     "id": 9,
@@ -151,7 +158,8 @@
     "fWAR": 10.6,
     "BB%": 13.2,
     "K%": 14.8,
-    "WPA": 5.77
+    "WPA": 5.77,
+    "reason": "2018 Mookie Betts was one of the most fun players to watch in recent years. The young star slugged a 1.078 OPS and posted an insane 10.6 fWAR, while leading the Red Sox to a world series championship. Although his time in Boston is done, his ability to perform at an MVP level and bring the city a championship in the 2018 season forever makes him a Red Sox legend."
   },
   {
     "id": 10,
@@ -542,7 +550,8 @@
     "fWAR": 8.1,
     "BB%": 11.6,
     "K%": 15.0,
-    "WPA": 4.56
+    "WPA": 4.56,
+    "reason": "Like Donaldson, McCutchen’s MVP season had solid production all around, but no crazy numbers to move it up the list any higher than 32. McCutchen slugged an impressive .912 OPS, which was boosted by a .404 OBP, along with a fWAR of 8.1. The highlight of McCutchen’s stat line is his 156 WRC+ and 157 OPS+, but a relatively low .508 slugging percentage holds him back from being put any higher on this list. "
   },
   {
     "id": 33,
@@ -559,7 +568,8 @@
     "fWAR": 8.7,
     "BB%": 10.3,
     "K%": 18.7,
-    "WPA": 6.1
+    "WPA": 6.1,
+    "reason": "Josh Donaldson’s 2015 MVP season can be highlighted by a 154 WRC+ and an 8.7 fWAR. Donaldson slugged 41 homeruns and posted a 6.1 WPA en route to leading the low payroll A’s to the playoffs. Donaldson’s game is very solid overall and this season consisted of impressive production in every category, but nothing too special compared to other MVP seasons on this list, thus it comes in at 33."
   },
   {
     "id": 34,
@@ -576,7 +586,8 @@
     "fWAR": 7.9,
     "BB%": 10.7,
     "K%": 22.0,
-    "WPA": 2.22
+    "WPA": 2.22,
+    "reason": "Kris Bryant’s lone MVP season comes in at 34 on my list. Bryant slugged an 0.939 OPS with a career high 39 homeruns and led a Cubs team to a 108-year drought ending world series championship. Bryant’s main criticism can be directed towards his 22 percent strikeout rate, and relatively low .385 OBP, but Bryant’s power was able to add value and offset where his plate discipline lacked. Since 2016, Bryant has not been able to replicate another MVP type season, but he will forever be a legend to Cubs fans and remembered for the things he did to bring the city of Chicago a championship."
   },
   {
     "id": 35,
@@ -593,7 +604,8 @@
     "fWAR": 3.8,
     "BB%": 8.0,
     "K%": 17.3,
-    "WPA": 4.77
+    "WPA": 4.77,
+    "reason": "Justin Morneau’s 2006 season is characterized by a career high .934 OPS and 140 OPS+ (Min. 100 games). The first baseman 34 homeruns and 37 doubles, good enough for a .559 SLG and a silver slugger award. The only downside to Morneau’s MVP season is a relatively low OBP and WAR. The 3.8 fWAR Morneau posted is the lowest out of all MVP seasons greater than 60 games, and that is why he shows up at 35 on our list. "
   },
   {
     "id": 36,
@@ -610,7 +622,8 @@
     "fWAR": 6.4,
     "BB%": 6.9,
     "K%": 7.2,
-    "WPA": 3.19
+    "WPA": 3.19,
+    "reason": "Dustin Pedroia’s 2008 MVP season can be best characterized by his hustle, hard-nosed style of play, but statistically, it was a relatively below average MVP season. Highlights of his season are his 6.4 fWAR and stellar defense, but a 0.869 OPS and 127 WRC+ put a halt to any considerations of moving this season up on the list. Pedroia was a key piece of the 2007 and 2013 Red Sox championship teams, often providing value in ways that doesn’t show up on the stat line, but for this list, his lack of power and on base percentage puts him at the number 36 spot. "
   },
   {
     "id": 37,
@@ -627,7 +640,8 @@
     "fWAR": 4.5,
     "BB%": 5.3,
     "K%": 11.7,
-    "WPA": 5.04
+    "WPA": 5.04,
+    "reason": "At the 37 spot is Miguel Tejada’s 2002 MVP season which propelled the famous “Moneyball” Oakland A’s to a 20-game win streak and a playoff berth. Unfortunately, a 20-game win streak is not because of one player, and Tejada’s 0.862 OPS and 128 WRC+ aren’t enough to move him any higher on this list. Although Tejada was able to hit .398, an underwhelming 5.3 percent walk rate resulted in a relatively low .354 OBP. To his credit, Tejada had a pretty high WPA and one could argue that he was a clutch hitter for an Oakland A’s team that defied all odds."
   },
   {
     "id": 38,
