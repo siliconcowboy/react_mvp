@@ -176,7 +176,8 @@
     "fWAR": 8.3,
     "BB%": 18.3,
     "K%": 20,
-    "WPA": 5.17
+    "WPA": 5.17,
+    "reason": "At the 10 spot is Mike Trout’s 2019 MVP season which I believe is his best so far. The center fielders mashed a 1.083 OPS and a 177 WRC+. Additionally, he was able to get on base at 43 percent clip even with a relatively high 20 percent strikeout rate. 2019 Mike Trout is prime Trout and as long as he stays off the IR, I think we can see him replicate this production in coming seasons."
   },
   {
     "id": 11,
@@ -193,7 +194,8 @@
     "fWAR": 9.1,
     "BB%": 12.7,
     "K%": 19.4,
-    "WPA": 6.27
+    "WPA": 6.27,
+    "reason" :"Alex Rodriguez’s 2005 season comes in at the 11-spot due to his high SLG percentage and insane 9.1 fWAR. A-rod struggled a bit this year with strikeouts, K-ing 19 percent of the time, but he had a relatively high 12.7 percent walk rate that boosted up his OBP. This 2005 season was the reason the Yankees had made him the highest paid player of all time."
   },
   {
     "id": 12,
@@ -210,7 +212,8 @@
     "fWAR": 5.1,
     "BB%": 15,
     "K%": 29.6,
-    "WPA": 5.18
+    "WPA": 5.18,
+    "reason": "Shohei Ohtani’s 2021 season was something like we have never seen before. Ohtani excelled on both sides of the ball, posting a .964 OPS and 152 WRC+ while also pitching to a 3.18 ERA. Drawing comparisons to Babe Ruth, Ohtani did what hasn’t been done in a century when he showed dominance as both a hitter and a pitcher, giving him the 12th spot on this list."
   },
   {
     "id": 13,
@@ -227,7 +230,8 @@
     "fWAR": 9.6,
     "BB%": 13.4,
     "K%": 16.9,
-    "WPA": 7.68
+    "WPA": 7.68,
+    "reason": "Alex Rodriguez…. Again. This time his 2007 season, where he crushed the ball for a 1.067 OPS and a 9.6 fWAR. Consistent offensive juggernaut seasons by A-rod are the reason he ended up with 696 homers and should have been a HOF lock if not for popping for steroids. Regardless, his production in the early 2000’s cemented him as one of the best players of this generation."
   },
   {
     "id": 14,
@@ -244,7 +248,8 @@
     "fWAR": 8.4,
     "BB%": 7.5,
     "K%": 16.6,
-    "WPA": 5.94
+    "WPA": 5.94,
+    "reason": "2010 Josh Hamilton was a monster. He slugged a .359 BA to contribute to a 1.044 OPS and 175 WRC+. He provided his team with an 8.4fWAR and a WPA of 5.94. It is unfortunate that Josh’s battle with drugs cost him the ability to produce like this at a high level. In my opinion, because of his crazy peak potential, he is one of the biggest “what-ifs” in sports."
   },
   {
     "id": 15,
@@ -261,7 +266,8 @@
     "fWAR": 8.4,
     "BB%": 12.5,
     "K%": 10.4,
-    "WPA": 3.85
+    "WPA": 3.85,
+    "reason": "Being from Minnesota and growing up a Twins fan, Joe Mauer was my childhood hero. Not only was he an offensive juggernaut, but he played stellar defense and led the Twins to multiple division titles. 2009 was no different as Mauer hit an absurd 0.356 BA and 172 WRC+, which along with gold glove level defense gave him an fWAR of 8.4. Mauer’s 2009 MVP season may be my personal favorite on the list. "
   },
   {
     "id": 16,
@@ -278,7 +284,8 @@
     "fWAR": 7.8,
     "BB%": 12.1,
     "K%": 7.5,
-    "WPA": 6.36
+    "WPA": 6.36,
+    "reason": "Pujols… AGAIN!!! Pujols 2004 MVP season is highlighted by a 1.072 OPS and 171 WRC+. He was so dominant that I’m getting tired writing about the guy. "
   },
   {
     "id": 17,
@@ -295,7 +302,8 @@
     "fWAR": 6.6,
     "BB%": 16.7,
     "K%": 22.4,
-    "WPA": 4.56
+    "WPA": 4.56,
+    "reason": "2021 Harper was an incredible season by a player who had many people to prove wrong. Harper hit for a 1.044 OPS and a 170 WRC+, good for a 6.6 fWAR. This shut up many fans who called him overrated and washed up. "
   },
   {
     "id": 18,
@@ -312,7 +320,8 @@
     "fWAR": 7.7,
     "BB%": 13.9,
     "K%": 9.3,
-    "WPA": 4.45
+    "WPA": 4.45,
+    "reason": "Pujols, again. This time in 2005, Albert continued to mash posting a 1.039 OPS and a 167 WRC+. In addition, Pujols showed his plate discipline by striking out only 9 percent of the time, and getting on base 43 percent of the time."
   },
   {
     "id": 19,
@@ -329,7 +338,8 @@
     "fWAR": 10.1,
     "BB%": 11.3,
     "K%": 15.7,
-    "WPA": 4.93
+    "WPA": 4.93,
+    "reason": "At 19 is Buster Posey, one of the best catchers of all time. Posey slugged a .957 OPS and posted an insanely high 10.1 fWAR, due to his stellar defense. The Giants legend cemented himself as one of the best catchers of all time with this amazing season on both sides of the ball."
   },
   {
     "id": 20,
@@ -346,7 +356,8 @@
     "fWAR": 6.9,
     "BB%": 14,
     "K%": 19.3,
-    "WPA": 6.88
+    "WPA": 6.88,
+    "reason": "Joey Votto. The king of walks and being patient at the plate. It’s only fitting Votto had a high walk rate of 14 percent in the year he won his MVP, but he also proved he had some power by slugging .600 and having a OPS of 1.024. For this reason, the Canadian lands 20th on my list. "
   },
   {
     "id": 21,
@@ -363,7 +374,8 @@
     "fWAR": 8.5,
     "BB%": 17,
     "K%": 20.1,
-    "WPA": 6.55
+    "WPA": 6.55,
+    "reason": "2016 Mike Trout is very similar to 2014 Mike Trout except this time he dropped his K percentage by 6 percent and raised his OPS by about 60 points. In addition, an fWAR of 8.5 and a WRC+ of 170 was good enough to land his 2016 season 21st on my list. "
   },
   {
     "id": 22,
@@ -380,7 +392,8 @@
     "fWAR": 8.3,
     "BB%": 11.8,
     "K%": 26.1,
-    "WPA": 7.17
+    "WPA": 7.17,
+    "reason": "Mike Trout’s first MVP comes in at the 22 spot. It’s in the middle of my list for a reason: no crazy spikes in any stat, but just a solid year all around. Trout slugged a .938 OPS and contributed a fWAR of 8.3 to his squad. The only downside is that Trout struck out at a 26 percent clip which makes it even more insane that he had such good production. "
   },
   {
     "id": 23,
@@ -397,7 +410,8 @@
     "fWAR": 7.7,
     "BB%": 10.4,
     "K%": 20.7,
-    "WPA": 6.02
+    "WPA": 6.02,
+    "reason": "Much like Yelich, Cody Bellinger has yet to be the same Cody Bellinger he was in 2019. The young Dodger star slugged a 1.035 OPS and posted a 7.7 fWAR on the way to leading the Dodgers to the playoffs. However, Bellinger’s 20.7 percent strikeout rate may have been an inclination of the drop off in production that was to come in the following years."
   },
   {
     "id": 24,
@@ -414,7 +428,8 @@
     "fWAR": 7.1,
     "BB%": 9.2,
     "K%": 14.8,
-    "WPA": 6.33
+    "WPA": 6.33,
+    "reason": "2011 Ryan Braun is unfortunately another season ruined by a positive steroids test. Regardless, the Brewers slugger posted impressive numbers highlighted by a 171 WRC+ and a 7.1 fWAR. Braun’s numbers are solid enough to land him at the 24 spot on this list, but his reputation amongst the baseball community is very poor."
   },
   {
     "id": 25,
@@ -431,7 +446,8 @@
     "fWAR": 7.7,
     "BB%": 10.4,
     "K%": 20.7,
-    "WPA": 6.02
+    "WPA": 6.02,
+    "reason": "Christian Yelich’s 2018 season was incredible. Yelich posted a even 1.000 OPS with a 167 WRC+. In addition, the left fielder gave the Brewers outstanding defense and led the team to a playoff berth. Unfortunately, this version of Yelich has yet to return in recent years as Christian cannot seem to find his groove at the plate."
   },
   {
     "id": 26,
@@ -467,7 +483,7 @@
     "BB%": 12.3,
     "K%": 23.6,
     "WPA": 4.64,
-    "reason": "At the 37 spot is Miguel Tejada’s 2002 MVP season which propelled the famous “Moneyball” Oakland A’s to a 20-game win streak and a playoff berth. Unfortunately, a 20-game win streak is not because of one player, and Tejada’s 0.862 OPS and 128 WRC+ aren’t enough to move him any higher on this list. Although Tejada was able to hit .398, an underwhelming 5.3 percent walk rate resulted in a relatively low .354 OBP. To his credit, Tejada had a pretty high WPA and one could argue that he was a clutch hitter for an Oakland A’s team that defied all odds."
+    "reason": "Giancarlo Stanton’s fantastic 2017 season can be remembered by his entertaining chase for 60 homeruns. Stanton may have fell short with 59 homers, but slugged a 1.007 OPS and 158n WRC+, good enough for an NL MVP award and 27th place on my list. A low OBP due to a high strikeout rate may have hindered Stanton’s total production a bit, but his unreal power made up for it."
   },
   {
     "id": 28,
